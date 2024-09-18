@@ -78,7 +78,7 @@ X_train_dense = X_train.todense()
 #check whether matrix contains non_zero terms
 row_sums = np.sum(X_train_dense, axis=1)
 non_zero_rows = np.sum(row_sums != 0)
-row_sums
+print(row_sums)
 
 X_train
 
