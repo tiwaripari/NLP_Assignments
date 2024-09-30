@@ -8,7 +8,7 @@ This repository contains code for performing sentiment analysis using various cl
 ### 1. Clone the Repository
 To get started, clone the repository to your local machine using the following command:
 ```bash
-git clone [REPOSITORY_URL]
+git clone https://github.com/tiwaripari/NLP_Assignments.git
 ```
 
 ### 2. Change File Paths
