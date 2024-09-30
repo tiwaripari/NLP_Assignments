@@ -1,3 +1,5 @@
 nltk
 scikit-learn
 numpy
+xgboost
+afinn
